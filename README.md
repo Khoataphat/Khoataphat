@@ -42,7 +42,7 @@ I am a final-year Information Technology student, actively building a solid foun
 ### 📫 Let's Connect
 
 <div align="left">
-  <a href="LINK_LINKEDIN_CUA_BAN_O_DAY">
+  <a href="www.linkedin.com/in/engineer-dangkhoa">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:EMAIL_CUA_BAN_O_DAY">
