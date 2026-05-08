@@ -39,15 +39,6 @@ I am a final-year Information Technology student, actively building a solid foun
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khoataphat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="160em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khoataphat&layout=compact&theme=tokyonight&hide_border=true" height="160em" />
-</div>
-
----
-
 ### 📫 Let's Connect
 
 <div align="left">
